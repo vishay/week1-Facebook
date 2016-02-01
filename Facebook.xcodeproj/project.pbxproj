@@ -14,6 +14,15 @@
 		071BAA071C5EC116003B3874 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 071BAA051C5EC116003B3874 /* LaunchScreen.storyboard */; };
 		071BAA121C5EC116003B3874 /* FacebookTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 071BAA111C5EC116003B3874 /* FacebookTests.swift */; };
 		071BAA1D1C5EC116003B3874 /* FacebookUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 071BAA1C1C5EC116003B3874 /* FacebookUITests.swift */; };
+		071BAA2B1C5EC84E003B3874 /* FeedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 071BAA2A1C5EC84E003B3874 /* FeedViewController.swift */; };
+		071BAA2D1C5EC864003B3874 /* MessagesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 071BAA2C1C5EC864003B3874 /* MessagesViewController.swift */; };
+		071BAA2F1C5EC876003B3874 /* RequestsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 071BAA2E1C5EC876003B3874 /* RequestsViewController.swift */; };
+		071BAA311C5EC87E003B3874 /* NotificationsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 071BAA301C5EC87E003B3874 /* NotificationsViewController.swift */; };
+		071BAA331C5EC884003B3874 /* MoreViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 071BAA321C5EC884003B3874 /* MoreViewController.swift */; };
+		071BAA371C5F1643003B3874 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 071BAA361C5F1643003B3874 /* DetailViewController.swift */; };
+		071BAA391C5F168F003B3874 /* CreateStatusViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 071BAA381C5F168F003B3874 /* CreateStatusViewController.swift */; };
+		071BAA3B1C5F169B003B3874 /* PostPhotoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 071BAA3A1C5F169B003B3874 /* PostPhotoViewController.swift */; };
+		071BAA3D1C5F16A5003B3874 /* CheckInViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 071BAA3C1C5F16A5003B3874 /* CheckInViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +56,15 @@
 		071BAA181C5EC116003B3874 /* FacebookUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FacebookUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		071BAA1C1C5EC116003B3874 /* FacebookUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FacebookUITests.swift; sourceTree = "<group>"; };
 		071BAA1E1C5EC116003B3874 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		071BAA2A1C5EC84E003B3874 /* FeedViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FeedViewController.swift; sourceTree = "<group>"; };
+		071BAA2C1C5EC864003B3874 /* MessagesViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MessagesViewController.swift; sourceTree = "<group>"; };
+		071BAA2E1C5EC876003B3874 /* RequestsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RequestsViewController.swift; sourceTree = "<group>"; };
+		071BAA301C5EC87E003B3874 /* NotificationsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NotificationsViewController.swift; sourceTree = "<group>"; };
+		071BAA321C5EC884003B3874 /* MoreViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MoreViewController.swift; sourceTree = "<group>"; };
+		071BAA361C5F1643003B3874 /* DetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
+		071BAA381C5F168F003B3874 /* CreateStatusViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CreateStatusViewController.swift; sourceTree = "<group>"; };
+		071BAA3A1C5F169B003B3874 /* PostPhotoViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PostPhotoViewController.swift; sourceTree = "<group>"; };
+		071BAA3C1C5F16A5003B3874 /* CheckInViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CheckInViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +118,15 @@
 				071BA9FC1C5EC116003B3874 /* AppDelegate.swift */,
 				071BA9FE1C5EC116003B3874 /* ViewController.swift */,
 				071BAA001C5EC116003B3874 /* Main.storyboard */,
+				071BAA2A1C5EC84E003B3874 /* FeedViewController.swift */,
+				071BAA381C5F168F003B3874 /* CreateStatusViewController.swift */,
+				071BAA3A1C5F169B003B3874 /* PostPhotoViewController.swift */,
+				071BAA3C1C5F16A5003B3874 /* CheckInViewController.swift */,
+				071BAA361C5F1643003B3874 /* DetailViewController.swift */,
+				071BAA2E1C5EC876003B3874 /* RequestsViewController.swift */,
+				071BAA2C1C5EC864003B3874 /* MessagesViewController.swift */,
+				071BAA301C5EC87E003B3874 /* NotificationsViewController.swift */,
+				071BAA321C5EC884003B3874 /* MoreViewController.swift */,
 				071BAA031C5EC116003B3874 /* Assets.xcassets */,
 				071BAA051C5EC116003B3874 /* LaunchScreen.storyboard */,
 				071BAA081C5EC116003B3874 /* Info.plist */,
@@ -256,8 +283,17 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				071BAA331C5EC884003B3874 /* MoreViewController.swift in Sources */,
+				071BAA2F1C5EC876003B3874 /* RequestsViewController.swift in Sources */,
 				071BA9FF1C5EC116003B3874 /* ViewController.swift in Sources */,
+				071BAA3B1C5F169B003B3874 /* PostPhotoViewController.swift in Sources */,
+				071BAA2B1C5EC84E003B3874 /* FeedViewController.swift in Sources */,
+				071BAA311C5EC87E003B3874 /* NotificationsViewController.swift in Sources */,
+				071BAA391C5F168F003B3874 /* CreateStatusViewController.swift in Sources */,
+				071BAA2D1C5EC864003B3874 /* MessagesViewController.swift in Sources */,
 				071BA9FD1C5EC116003B3874 /* AppDelegate.swift in Sources */,
+				071BAA3D1C5F16A5003B3874 /* CheckInViewController.swift in Sources */,
+				071BAA371C5F1643003B3874 /* DetailViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -482,6 +518,7 @@
 				071BAA231C5EC116003B3874 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		071BAA241C5EC116003B3874 /* Build configuration list for PBXNativeTarget "FacebookTests" */ = {
 			isa = XCConfigurationList;
@@ -490,6 +527,7 @@
 				071BAA261C5EC116003B3874 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		071BAA271C5EC116003B3874 /* Build configuration list for PBXNativeTarget "FacebookUITests" */ = {
 			isa = XCConfigurationList;
@@ -498,6 +536,7 @@
 				071BAA291C5EC116003B3874 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
